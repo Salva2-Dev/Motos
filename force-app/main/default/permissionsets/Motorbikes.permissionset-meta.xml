@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <applicationVisibilities>
+        <application>Motorbikes</application>
+        <visible>true</visible>
+    </applicationVisibilities>
+    <description>first permission set</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Motorbikes</label>
+    <tabSettings>
+        <tab>Favorite_Models__c</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
+</PermissionSet>
